@@ -1,7 +1,7 @@
 package br.com.hoyler.apps.java.demojavafxspring.tools;
 
 public enum ViewFXML {
-    LOGIN("Login", "br.com.hoyler.apps.java.demos.javafxspringboot.gui");
+    LOGIN("Login", "br.com.hoyler.apps.java.demojavafxspring.gui");
 
     private String FileName;
     private String FilePackage;
